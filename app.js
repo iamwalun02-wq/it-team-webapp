@@ -150,6 +150,56 @@
       .join("");
   }
 
+
+  function formatArrived(v) {
+    if (!v) return "—";
+    try {
+      var d = new Date(v);
+      if (!isNaN(d.getTime())) {
+        return d.toLocaleTimeString("zh-HK", {
+          timeZone: "Asia/Hong_Kong",
+          hour: "2-digit",
+          minute: "2-digit",
+          hour12: false,
+        });
+      }
+    } catch (e) {}
+    // already a time string like "08:12"
+    return String(v);
+  }
+
+  function renderStaff(list) {
+    var el = document.getElementById("staffBody");
+    if (!el) return;
+    list = list || [];
+    if (!list.length) {
+      el.innerHTML = emptyHtml("暫未有在校資料");
+      return;
+    }
+    el.innerHTML = list
+      .map(function (r) {
+        var inSchool = r.status === "在校";
+        var pillClass = inSchool ? "in" : "out";
+        var status = inSchool ? "在校" : "不在校";
+        return (
+          '<article class="staff-card">' +
+          '<div class="staff-name">' +
+          esc(r.name || r.id || "—") +
+          "</div>" +
+          '<div class="staff-arrived">到校 <strong>' +
+          esc(formatArrived(r.arrivedAt)) +
+          "</strong></div>" +
+          '<span class="status-pill ' +
+          pillClass +
+          '">' +
+          esc(status) +
+          "</span>" +
+          "</article>"
+        );
+      })
+      .join("");
+  }
+
   function showError(msg) {
     var banner = document.getElementById("errorBanner");
     banner.textContent = msg;
@@ -166,6 +216,7 @@
     var next = isNextWorkday(data);
     renderEquipment(data.equipment, next);
     renderMaintenance(data.maintenance);
+    renderStaff(data.staffPresence);
   }
 
   function load() {
@@ -184,6 +235,7 @@
         );
         renderEquipment([]);
         renderMaintenance([]);
+        renderStaff([]);
       });
   }
 

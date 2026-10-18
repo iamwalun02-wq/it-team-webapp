@@ -249,3 +249,47 @@ body {
   font-size: 0.75rem;
   color: var(--muted);
 }
+
+.staff-grid {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.staff-card {
+  background: var(--item);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 88px;
+}
+
+.staff-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.staff-arrived {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.staff-arrived strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.status-pill.in {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.status-pill.out {
+  background: #2a3038;
+  color: var(--muted);
+}
