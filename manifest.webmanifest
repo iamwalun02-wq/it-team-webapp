@@ -1,0 +1,10 @@
+{
+  "name": "侯中 IT Team",
+  "short_name": "侯中IT",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1a5f4a",
+  "lang": "zh-Hant",
+  "description": "青松侯寶垣中學 IT Team 器材／場地／維修一覽"
+}
