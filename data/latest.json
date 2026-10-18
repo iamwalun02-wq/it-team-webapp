@@ -14,10 +14,10 @@
       "note": "1A／207；技術員送收；確定可用"
     },
     {
-      "period": "AS",
-      "item": "iPad ×30",
-      "who": "chengny",
-      "note": "STEM CLUB／601；指定 B64-86×20；確定可用"
+      "period": "P5",
+      "item": "iPad ×28",
+      "who": "likh",
+      "note": "413；待批"
     },
     {
       "period": "P5",
@@ -26,16 +26,17 @@
       "note": "304；待批"
     },
     {
-      "period": "P5",
-      "item": "iPad ×28",
-      "who": "likh",
-      "note": "413；待批"
-    },
-    {
       "period": "P6",
       "item": "iPad ×35",
       "who": "nglily",
       "note": "1CA1／602；待批"
+    },
+    {
+      "period": "AS",
+      "item": "iPad ×30",
+      "who": "chengny",
+      "note": "STEM CLUB／601；確定可用",
+      "remark": "指定 B64-86×20"
     },
     {
       "period": "AS",
