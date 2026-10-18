@@ -79,10 +79,53 @@
     }
   }
 
+  // School order: P0→P1–P3→RS→P4–P5→LH→P6–P8→CL→AS; ranges use earliest
+  function periodRank(period) {
+    if (period == null || period === "") return 9000;
+    var s = String(period).toUpperCase().replace(/\s+/g, "");
+    if (s.indexOf("AS") === 0 || s.indexOf("AFTERSCHOOL") !== -1)
+      return 8000;
+    if (s.indexOf("CL") === 0) return 7000;
+    if (s.indexOf("LH") === 0 || s.indexOf("LUNCH") !== -1) return 5500;
+    if (s.indexOf("RS") === 0 || s.indexOf("RECESS") !== -1) return 3500;
+    var m = s.match(/P\s*(\d+)/);
+    if (m) {
+      var n = parseInt(m[1], 10);
+      var map = {
+        0: 0,
+        1: 1000,
+        2: 2000,
+        3: 3000,
+        4: 4000,
+        5: 5000,
+        6: 6000,
+        7: 6500,
+        8: 6800,
+      };
+      return map.hasOwnProperty(n) ? map[n] : 1000 + n * 100;
+    }
+    return 8500;
+  }
+
+  function sortEquipment(list) {
+    return (list || []).slice().sort(function (a, b) {
+      var ra = periodRank(a && a.period);
+      var rb = periodRank(b && b.period);
+      if (ra !== rb) return ra - rb;
+      var pa = String((a && a.period) || "");
+      var pb = String((b && b.period) || "");
+      if (pa !== pb) return pa < pb ? -1 : 1;
+      var wa = String((a && a.who) || "");
+      var wb = String((b && b.who) || "");
+      if (wa !== wb) return wa < wb ? -1 : 1;
+      return 0;
+    });
+  }
+
   function renderEquipment(list, nextMode) {
     var el = document.getElementById("equipmentBody");
     var countEl = document.getElementById("eqCount");
-    list = list || [];
+    list = sortEquipment(list || []);
     countEl.textContent = String(list.length);
     if (!list.length) {
       el.innerHTML = emptyHtml(
