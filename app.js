@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var DATA_URL = "data/latest.json?v=20261019a";
+  var DATA_URL = "data/latest.json?v=20261019b";
 
   var IT_MAINT_RE =
     /電腦|投影|音響|喇叭|擴音|影音|螢幕|遙控|iPad|ipad|LED|顯示器|mic|麥克風|amplifier|projector|TV|電視/;
