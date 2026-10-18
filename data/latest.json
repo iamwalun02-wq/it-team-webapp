@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-18T08:10:54+08:00",
+  "updatedAt": "2026-10-19T04:01:39+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
-  "calendarDate": "2026-10-18",
+  "calendarDate": "2026-10-19",
   "displayDate": "2026-10-20",
   "displayLabel": "下一個工作天 · 10/20（二）Day 7",
   "displayMode": "next_workday",
@@ -30,6 +30,12 @@
       "item": "iPad ×28",
       "who": "likh",
       "note": "413；待批"
+    },
+    {
+      "period": "P6",
+      "item": "iPad ×35",
+      "who": "nglily",
+      "note": "1CA1／602；待批"
     },
     {
       "period": "AS",
