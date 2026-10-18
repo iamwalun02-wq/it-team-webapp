@@ -1,0 +1,224 @@
+{
+  "updatedAt": "2026-10-18T08:10:54+08:00",
+  "source": "intranet.cchpwss.edu.hk",
+  "isExample": false,
+  "calendarDate": "2026-10-18",
+  "displayDate": "2026-10-20",
+  "displayLabel": "下一個工作天 · 10/20（二）Day 7",
+  "displayMode": "next_workday",
+  "equipment": [
+    {
+      "period": "P4–P5",
+      "item": "iPad ×30",
+      "who": "liangyt",
+      "note": "1A／207；技術員送收；確定可用"
+    },
+    {
+      "period": "AS",
+      "item": "iPad ×30",
+      "who": "chengny",
+      "note": "STEM CLUB／601；指定 B64-86×20；確定可用"
+    },
+    {
+      "period": "P5",
+      "item": "iPad ×30",
+      "who": "limc",
+      "note": "304；待批"
+    },
+    {
+      "period": "P5",
+      "item": "iPad ×28",
+      "who": "likh",
+      "note": "413；待批"
+    },
+    {
+      "period": "AS",
+      "item": "流動擴音機 ×1",
+      "who": "leehl",
+      "note": "電子琴班／606；確定可用"
+    }
+  ],
+  "venues": [
+    {
+      "time": "AS 17:00–18:30",
+      "venue": "102",
+      "event": "中六拔尖英文補課（E1）",
+      "note": "wucw"
+    },
+    {
+      "time": "CL–AS 15:15–17:00",
+      "venue": "107",
+      "event": "奮進班",
+      "note": "chukl；電腦／LED"
+    },
+    {
+      "time": "LH 12:50–13:20",
+      "venue": "107",
+      "event": "Choral Speaking Rehearsals",
+      "note": "halilcan"
+    },
+    {
+      "time": "P2",
+      "venue": "HALL",
+      "event": "Variety show rehearsal（3N）",
+      "note": "pohl；myc跟進"
+    },
+    {
+      "time": "P2–P3",
+      "venue": "HALL",
+      "event": "中六模擬試卷練習",
+      "note": "chowmw；未能借用→轉 G02"
+    },
+    {
+      "time": "P6",
+      "venue": "HALL",
+      "event": "variety show rehearsal",
+      "note": "pohl；myc跟進"
+    },
+    {
+      "time": "P2–P3",
+      "venue": "G02",
+      "event": "中六數學科練習",
+      "note": "siuwk"
+    },
+    {
+      "time": "AS 16:00–18:00",
+      "venue": "G02",
+      "event": "一人一體藝：武術／龍獅",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "CPG",
+      "event": "一人一體藝：花式跳繩",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "PG",
+      "event": "田徑",
+      "note": "kwokty"
+    },
+    {
+      "time": "全日",
+      "venue": "306",
+      "event": "ST上堂",
+      "note": "chiuwc"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "212",
+      "event": "一人一體藝",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 15:50–16:50",
+      "venue": "415",
+      "event": "中六生物補課",
+      "note": "wucw"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "606",
+      "event": "一人一體藝：電子琴",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "601／505",
+      "event": "一人一體藝：STEM",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "602–603",
+      "event": "一人一體藝：結他",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "413",
+      "event": "一人一體藝：劇社",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "202–204／301",
+      "event": "一人一體藝：中樂",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 15:50–16:50",
+      "venue": "501",
+      "event": "中六中史補課",
+      "note": "wucw"
+    },
+    {
+      "time": "AS 15:50–16:50",
+      "venue": "503",
+      "event": "中六歷史補課",
+      "note": "wucw"
+    },
+    {
+      "time": "AS 16:00–17:00",
+      "venue": "302–305",
+      "event": "一人一體藝：管弦",
+      "note": "kwokty"
+    },
+    {
+      "time": "AS 15:50–16:50",
+      "venue": "502",
+      "event": "中六經濟補課",
+      "note": "wucw"
+    },
+    {
+      "time": "AS 15:50–16:50",
+      "venue": "614",
+      "event": "中六物理補課",
+      "note": "wucw"
+    },
+    {
+      "time": "LH",
+      "venue": "Lobby",
+      "event": "普通話電視",
+      "note": "wankf"
+    }
+  ],
+  "maintenance": [
+    {
+      "id": "#11526",
+      "place": "6樓 - 1A課室(603)",
+      "issue": "近窗後方風扇開唔到",
+      "status": "跟進中",
+      "category": "設施"
+    },
+    {
+      "id": "#11519",
+      "place": "2樓 - 6C課室(202)",
+      "issue": "近門口風扇壞了，不能動",
+      "status": "跟進中",
+      "category": "設施"
+    },
+    {
+      "id": "#11283",
+      "place": "3樓 - 5C課室(302)",
+      "issue": "課室後方鮮風機有怪聲",
+      "status": "跟進中",
+      "category": "設施"
+    },
+    {
+      "id": "#11219",
+      "place": "2樓 - 6A課室(203)",
+      "issue": "遙控器失靈",
+      "status": "跟進中",
+      "category": "電腦影音"
+    },
+    {
+      "id": "#11209",
+      "place": "5樓 - 電腦室(505)",
+      "issue": "空氣清新機開啟後沒有風、閃 L 燈",
+      "status": "待跟進",
+      "category": "設施"
+    }
+  ]
+}
