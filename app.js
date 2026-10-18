@@ -3,6 +3,9 @@
 
   var DATA_URL = "data/latest.json";
 
+  var IT_MAINT_RE =
+    /電腦|投影|音響|喇叭|擴音|影音|螢幕|遙控|iPad|ipad|LED|顯示器|喇叭|mic|麥克風|amplifier|projector|TV|電視/;
+
   function esc(s) {
     if (s == null || s === "") return "";
     return String(s)
@@ -43,49 +46,30 @@
     return data && data.displayMode === "next_workday";
   }
 
-  function setSectionTitle(titleId, subtitleId, titleText, subtitleText) {
-    var titleEl = document.getElementById(titleId);
-    var subEl = document.getElementById(subtitleId);
-    if (titleEl) titleEl.textContent = titleText;
-    if (!subEl) return;
-    if (subtitleText) {
-      subEl.textContent = subtitleText;
-      subEl.hidden = false;
-    } else {
-      subEl.textContent = "";
-      subEl.hidden = true;
-    }
+  function isItMaintenance(r) {
+    var blob = [r.category, r.issue, r.place, r.id].join(" ");
+    return IT_MAINT_RE.test(blob);
   }
 
   function applyDisplayMode(data) {
     var next = isNextWorkday(data);
     var label = data.displayLabel || "";
     var banner = document.getElementById("displayBanner");
+    var titleEl = document.getElementById("eq-title");
+    var subEl = document.getElementById("eqSubtitle");
 
     if (next && label) {
       banner.textContent = label;
       banner.hidden = false;
+      titleEl.textContent = "借器材";
+      subEl.textContent = label;
+      subEl.hidden = false;
     } else {
       banner.textContent = "";
       banner.hidden = true;
-    }
-
-    if (next) {
-      setSectionTitle(
-        "eq-title",
-        "eqSubtitle",
-        "工作天課室器材借用",
-        label || null
-      );
-      setSectionTitle(
-        "venue-title",
-        "venueSubtitle",
-        "工作天場地借用",
-        label || null
-      );
-    } else {
-      setSectionTitle("eq-title", "eqSubtitle", "今日課室器材借用", null);
-      setSectionTitle("venue-title", "venueSubtitle", "今日場地借用", null);
+      titleEl.textContent = "借器材";
+      subEl.textContent = "";
+      subEl.hidden = true;
     }
   }
 
@@ -96,119 +80,68 @@
     countEl.textContent = String(list.length);
     if (!list.length) {
       el.innerHTML = emptyHtml(
-        nextMode ? "該日暫無器材借用" : "今日暫無器材借用"
+        nextMode ? "該日暫無借器材" : "今日暫無借器材"
       );
       return;
     }
-    var rows = list
+    el.innerHTML = list
       .map(function (r) {
-        var note = r.note ? esc(r.note) : "—";
         return (
-          "<tr>" +
-          '<td class="period">' +
-          esc(r.period) +
-          "</td>" +
-          '<td class="item">' +
-          esc(r.item) +
-          "</td>" +
-          '<td class="who">' +
-          esc(r.who) +
-          "</td>" +
-          '<td class="note">' +
-          note +
-          "</td>" +
-          "</tr>"
+          '<article class="item-card">' +
+          '<div class="card-top">' +
+          '<span class="card-period">' +
+          esc(r.period || "—") +
+          "</span>" +
+          '<span class="card-item">' +
+          esc(r.item || "—") +
+          "</span>" +
+          "</div>" +
+          '<div class="card-who">' +
+          esc(r.who || "—") +
+          "</div>" +
+          (r.note
+            ? '<div class="card-note">' + esc(r.note) + "</div>"
+            : "") +
+          "</article>"
         );
       })
       .join("");
-    el.innerHTML =
-      '<div class="table-wrap"><table>' +
-      "<thead><tr><th>時段</th><th>器材</th><th>對象</th><th>備註</th></tr></thead>" +
-      "<tbody>" +
-      rows +
-      "</tbody></table></div>";
-  }
-
-  function renderVenues(list, nextMode) {
-    var el = document.getElementById("venuesBody");
-    var countEl = document.getElementById("venueCount");
-    list = list || [];
-    countEl.textContent = String(list.length);
-    if (!list.length) {
-      el.innerHTML = emptyHtml(
-        nextMode ? "該日暫無場地借用" : "今日暫無場地借用"
-      );
-      return;
-    }
-    var rows = list
-      .map(function (r) {
-        var note = r.note ? esc(r.note) : "—";
-        return (
-          "<tr>" +
-          '<td class="time">' +
-          esc(r.time) +
-          "</td>" +
-          '<td class="venue">' +
-          esc(r.venue) +
-          "</td>" +
-          '<td class="event">' +
-          esc(r.event) +
-          "</td>" +
-          '<td class="note">' +
-          note +
-          "</td>" +
-          "</tr>"
-        );
-      })
-      .join("");
-    el.innerHTML =
-      '<div class="table-wrap"><table>' +
-      "<thead><tr><th>時段</th><th>場地</th><th>活動</th><th>備註</th></tr></thead>" +
-      "<tbody>" +
-      rows +
-      "</tbody></table></div>";
   }
 
   function renderMaintenance(list) {
     var el = document.getElementById("maintenanceBody");
     var countEl = document.getElementById("maintCount");
-    list = list || [];
+    list = (list || []).filter(isItMaintenance);
     countEl.textContent = String(list.length);
     if (!list.length) {
-      el.innerHTML = emptyHtml("暫無跟進中維修");
+      el.innerHTML = emptyHtml("暫無電腦／投影機／音響維修");
       return;
     }
-    var rows = list
+    el.innerHTML = list
       .map(function (r) {
         return (
-          "<tr>" +
-          '<td class="id-cell">' +
-          esc(r.id) +
-          "</td>" +
-          "<td>" +
-          esc(r.place) +
-          "</td>" +
-          "<td>" +
-          esc(r.issue) +
-          (r.category
-            ? '<br><span style="color:#667085;font-size:0.8rem">' +
-              esc(r.category) +
-              "</span>"
-            : "") +
-          "</td>" +
-          '<td><span class="status-pill">' +
+          '<article class="item-card">' +
+          '<div class="card-top">' +
+          '<span class="card-id">' +
+          esc(r.id || "") +
+          "</span>" +
+          '<span class="status-pill">' +
           esc(r.status || "跟進中") +
-          "</span></td>" +
-          "</tr>"
+          "</span>" +
+          "</div>" +
+          '<div class="card-item">' +
+          esc(r.issue || "—") +
+          "</div>" +
+          '<div class="card-who">' +
+          esc(r.place || "—") +
+          "</div>" +
+          (r.category
+            ? '<div class="card-note">' + esc(r.category) + "</div>"
+            : "") +
+          "</article>"
         );
       })
       .join("");
-    el.innerHTML =
-      '<div class="table-wrap"><table>' +
-      "<thead><tr><th>編號</th><th>地點</th><th>問題</th><th>狀態</th></tr></thead>" +
-      "<tbody>" +
-      rows +
-      "</tbody></table></div>";
   }
 
   function showError(msg) {
@@ -222,15 +155,10 @@
       data.updatedAt
     );
     var badge = document.getElementById("exampleBadge");
-    if (data.isExample) {
-      badge.hidden = false;
-    } else {
-      badge.hidden = true;
-    }
+    badge.hidden = !data.isExample;
     applyDisplayMode(data);
     var next = isNextWorkday(data);
     renderEquipment(data.equipment, next);
-    renderVenues(data.venues, next);
     renderMaintenance(data.maintenance);
   }
 
@@ -246,10 +174,9 @@
         showError(
           "讀取 data/latest.json 失敗（" +
             (err && err.message ? err.message : "未知錯誤") +
-            "）。請用本機伺服器開啟，或檢查 JSON 路徑。"
+            "）。"
         );
         renderEquipment([]);
-        renderVenues([]);
         renderMaintenance([]);
       });
   }
