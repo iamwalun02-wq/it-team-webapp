@@ -1,13 +1,17 @@
 (function () {
   "use strict";
 
-  var DATA_URL = "data/latest.json";
+  var DATA_URL = "data/latest.json?v=20261019a";
 
   var IT_MAINT_RE =
     /電腦|投影|音響|喇叭|擴音|影音|螢幕|遙控|iPad|ipad|LED|顯示器|mic|麥克風|amplifier|projector|TV|電視/;
 
   var IGNORE_MAINT_RE =
     /空氣清新|清新機|冷氣|空調|微波爐|雪櫃|冰箱|洗衣機|抽濕|風扇|鮮風|電熱水|雪櫃|雪種|抽油煙|雪櫃/;
+
+  function nlToBr(s) {
+    return esc(s).replace(/\n/g, "<br>");
+  }
 
   function esc(s) {
     if (s == null || s === "") return "";
@@ -180,7 +184,7 @@
                 : "") +
               (sn.remark
                 ? '<div class="card-remark"><span class="card-remark-label">備註</span>' +
-                  esc(sn.remark) +
+                  nlToBr(sn.remark) +
                   "</div>"
                 : "")
             );
