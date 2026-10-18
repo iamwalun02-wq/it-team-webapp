@@ -122,6 +122,30 @@
     });
   }
 
+
+  // Pull booking remarks (指定機／英文備註) out of note for a louder card block
+  function splitEquipNote(r) {
+    var remark = (r && r.remark) || "";
+    var note = (r && r.note) || "";
+    var REMARK_RE = /指定|Please\s+arrange|B\d{1,3}\s*[-–]\s*\d{1,3}|特定/i;
+    if (!remark && note) {
+      var parts = note.split(/[；;]/);
+      var keep = [];
+      var found = [];
+      for (var i = 0; i < parts.length; i++) {
+        var p = parts[i].trim();
+        if (!p) continue;
+        if (REMARK_RE.test(p)) found.push(p);
+        else keep.push(p);
+      }
+      if (found.length) {
+        remark = found.join("；");
+        note = keep.join("；");
+      }
+    }
+    return { note: note, remark: remark };
+  }
+
   function renderEquipment(list, nextMode) {
     var el = document.getElementById("equipmentBody");
     var countEl = document.getElementById("eqCount");
@@ -148,9 +172,19 @@
           '<div class="card-who">' +
           esc(r.who || "—") +
           "</div>" +
-          (r.note
-            ? '<div class="card-note">' + esc(r.note) + "</div>"
-            : "") +
+          (function () {
+            var sn = splitEquipNote(r);
+            return (
+              (sn.note
+                ? '<div class="card-note">' + esc(sn.note) + "</div>"
+                : "") +
+              (sn.remark
+                ? '<div class="card-remark"><span class="card-remark-label">備註</span>' +
+                  esc(sn.remark) +
+                  "</div>"
+                : "")
+            );
+          })() +
           "</article>"
         );
       })
