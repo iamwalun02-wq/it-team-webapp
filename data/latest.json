@@ -226,5 +226,35 @@
       "status": "待跟進",
       "category": "設施"
     }
+  ],
+  "staffPresence": [
+    {
+      "id": "ngkf",
+      "name": "吳國鋒",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": null
+    },
+    {
+      "id": "ipch",
+      "name": "葉志濠",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": null
+    },
+    {
+      "id": "tolina",
+      "name": "陶理諾",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": null
+    },
+    {
+      "id": "leeoz",
+      "name": "李靄晴",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": null
+    }
   ]
 }
