@@ -4,7 +4,10 @@
   var DATA_URL = "data/latest.json";
 
   var IT_MAINT_RE =
-    /電腦|投影|音響|喇叭|擴音|影音|螢幕|遙控|iPad|ipad|LED|顯示器|喇叭|mic|麥克風|amplifier|projector|TV|電視/;
+    /電腦|投影|音響|喇叭|擴音|影音|螢幕|遙控|iPad|ipad|LED|顯示器|mic|麥克風|amplifier|projector|TV|電視/;
+
+  var IGNORE_MAINT_RE =
+    /空氣清新|清新機|冷氣|空調|微波爐|雪櫃|冰箱|洗衣機|抽濕|風扇|鮮風|電熱水|雪櫃|雪種|抽油煙|雪櫃/;
 
   function esc(s) {
     if (s == null || s === "") return "";
@@ -48,7 +51,10 @@
 
   function isItMaintenance(r) {
     var blob = [r.category, r.issue, r.place, r.id].join(" ");
-    return IT_MAINT_RE.test(blob);
+    if (IGNORE_MAINT_RE.test(blob)) return false;
+    // 以問題／類別為準；唔好因為「電腦室」地點就當 IT（避免家電誤中）
+    var core = [r.category, r.issue].join(" ");
+    return IT_MAINT_RE.test(core);
   }
 
   function applyDisplayMode(data) {
