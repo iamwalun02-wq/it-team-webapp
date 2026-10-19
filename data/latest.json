@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T07:21:18+08:00",
+  "updatedAt": "2026-10-20T07:25:01+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-10-20",
@@ -238,56 +238,56 @@
       "name": "吳國鋒",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     },
     {
       "id": "ipch",
       "name": "葉志濠",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     },
     {
       "id": "tolina",
       "name": "陶理諾",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     },
     {
       "id": "leeoz",
       "name": "李靄晴",
-      "status": "不在校",
-      "arrivedAt": null,
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "status": "在校",
+      "arrivedAt": "2026-10-20T07:25:01+08:00",
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     },
     {
       "id": "lungyw",
       "name": "龍躍雲",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:08:05+08:00",
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     },
     {
       "id": "tangwl",
       "name": "鄧偉林",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     },
     {
       "id": "manyc",
       "name": "文婉貞",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     },
     {
       "id": "ngks",
       "name": "吳啟舜",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:15:53+08:00",
-      "checkedAt": "2026-10-20T07:21:18+08:00"
+      "checkedAt": "2026-10-20T07:25:01+08:00"
     }
   ]
 }
