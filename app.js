@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var DATA_URL = "data/latest.json?v=20261019b";
+  var DATA_URL = "data/latest.json?v=20261020c";
 
   var IT_MAINT_RE =
     /電腦|投影|音響|喇叭|擴音|影音|螢幕|遙控|iPad|ipad|LED|顯示器|mic|麥克風|amplifier|projector|TV|電視/;
@@ -150,6 +150,11 @@
     return { note: note, remark: remark };
   }
 
+
+  function itemCardClass(r) {
+    return r && r.cancelled ? "item-card item-card--cancelled" : "item-card";
+  }
+
   function renderEquipment(list, nextMode) {
     var el = document.getElementById("equipmentBody");
     var countEl = document.getElementById("eqCount");
@@ -164,7 +169,7 @@
     el.innerHTML = list
       .map(function (r) {
         return (
-          '<article class="item-card">' +
+          '<article class="' + itemCardClass(r) + '">' +
           '<div class="card-top">' +
           '<span class="card-period">' +
           esc(r.period || "—") +
