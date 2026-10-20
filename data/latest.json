@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:01:57+08:00",
+  "updatedAt": "2026-10-20T17:05:06+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-10-20",
@@ -211,13 +211,6 @@
   ],
   "maintenance": [
     {
-      "id": "#11590",
-      "place": "3樓 - 課室(301)",
-      "issue": "the mic has no sound",
-      "status": "待跟進",
-      "category": "電腦影音"
-    },
-    {
       "id": "#11589",
       "place": "4樓 - 4A課室(406)",
       "issue": "嚙褒伐蕭嚙稷嚙罷嚙稻嚙踝蕭",
@@ -273,56 +266,56 @@
       "name": "吳國鋒",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:43:00+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     },
     {
       "id": "ipch",
       "name": "葉志濠",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:34:57+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     },
     {
       "id": "tolina",
       "name": "陶理諾",
       "status": "在校",
       "arrivedAt": "2026-10-20T09:32:12+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     },
     {
       "id": "leeoz",
       "name": "李靄晴",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:25:01+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     },
     {
       "id": "lungyw",
       "name": "龍躍雲",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:08:05+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     },
     {
       "id": "tangwl",
       "name": "鄧偉林",
       "status": "在校",
       "arrivedAt": "2026-10-20T08:01:45+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     },
     {
       "id": "manyc",
       "name": "文婉貞",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:34:57+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     },
     {
       "id": "ngks",
       "name": "吳啟舜",
       "status": "在校",
       "arrivedAt": "2026-10-20T07:15:53+08:00",
-      "checkedAt": "2026-10-20T16:01:57+08:00"
+      "checkedAt": "2026-10-20T17:05:06+08:00"
     }
   ]
 }
