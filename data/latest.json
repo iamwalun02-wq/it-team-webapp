@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T18:39:21+08:00",
+  "updatedAt": "2026-10-25T00:46:53+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-10-24",
@@ -93,58 +93,884 @@
     {
       "id": "ngkf",
       "name": "吳國鋒",
+      "role": "教師",
       "status": "不在校",
       "arrivedAt": "2026-10-20T07:43:00+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 1
     },
     {
       "id": "ipch",
       "name": "葉志濠",
+      "role": "TSS",
       "status": "不在校",
       "arrivedAt": "2026-10-20T07:34:57+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 2
     },
     {
       "id": "tolina",
       "name": "陶理諾",
+      "role": "職員",
       "status": "不在校",
       "arrivedAt": "2026-10-20T09:32:12+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 3
     },
     {
       "id": "leeoz",
       "name": "李靄晴",
+      "role": "職員",
       "status": "不在校",
       "arrivedAt": "2026-10-20T07:25:01+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 4
     },
     {
       "id": "lungyw",
       "name": "龍躍雲",
+      "role": "職員",
       "status": "不在校",
       "arrivedAt": "2026-10-20T07:08:05+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 5
     },
     {
       "id": "tangwl",
       "name": "鄧偉林",
+      "role": "職員",
       "status": "不在校",
       "arrivedAt": "2026-10-20T08:01:45+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 6
     },
     {
       "id": "manyc",
       "name": "文婉貞",
+      "role": "實驗室技術",
       "status": "不在校",
       "arrivedAt": "2026-10-20T07:34:57+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 7
     },
     {
       "id": "ngks",
       "name": "吳啟舜",
+      "role": "實驗室技術",
       "status": "不在校",
       "arrivedAt": "2026-10-20T07:15:53+08:00",
-      "checkedAt": "2026-10-24T18:39:21+08:00"
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": 8
+    },
+    {
+      "id": "yaucm",
+      "name": "丘卓敏",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "ngnc",
+      "name": "伍毅慈",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "hoth",
+      "name": "何迪康",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "hool",
+      "name": "何靄玲",
+      "role": "外判工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "security2",
+      "name": "保安(夜更)",
+      "role": "保安",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "security1",
+      "name": "保安(日更)",
+      "role": "保安",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "lingl",
+      "name": "凌略",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "laucm",
+      "name": "劉振武",
+      "role": "實驗室技術",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "ngsh",
+      "name": "吳少雄",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "ngmf",
+      "name": "吳文發",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "ngmh",
+      "name": "吳旻熹",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "ngyt",
+      "name": "吳燕婷",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "nglily",
+      "name": "吳莉莉",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chaupy",
+      "name": "周佩鈺",
+      "role": "職員",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "janitor03",
+      "name": "外判工1_替工",
+      "role": "外判工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "janitor04",
+      "name": "外判工2_替工",
+      "role": "外判工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "suentw",
+      "name": "孫達威",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wankf",
+      "name": "尹景峰",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "pohl",
+      "name": "布曉藍",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "sheungyt",
+      "name": "常頤德",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "liucy",
+      "name": "廖仲賢",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "zhangsj",
+      "name": "張少娟",
+      "role": "外判工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "changcf",
+      "name": "張志芬",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "cheungyl",
+      "name": "張耀麟",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "cheungty",
+      "name": "張趣怡",
+      "role": "心理",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "fongkk",
+      "name": "方嘉琪",
+      "role": "校長",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chotc",
+      "name": "曹梓俊",
+      "role": "TSS",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "tsangcm",
+      "name": "曾銍銘",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chukl",
+      "name": "朱江蓮",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "leekm",
+      "name": "李健文",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "likh",
+      "name": "李啟豪",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "leekf",
+      "name": "李嘉鳳",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "leemy",
+      "name": "李文宇",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "limc",
+      "name": "李文靖",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "lith",
+      "name": "李東雄",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "leehl",
+      "name": "李浩倫",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "leeys",
+      "name": "李逸燊",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "lammn",
+      "name": "林文娜",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "lamyw",
+      "name": "林月雲",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "lamny",
+      "name": "林雅瑩",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "leungtc",
+      "name": "梁庭彰",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "leungtw",
+      "name": "梁梓媛",
+      "role": "職員",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "liangyt",
+      "name": "梁逸濤",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "yeungkh",
+      "name": "楊嘉禧",
+      "role": "言語治療師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "yangc",
+      "name": "楊菁",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "hongy",
+      "name": "洪雅欽",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongw",
+      "name": "王穎",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "kanws",
+      "name": "簡慧琛",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wucw",
+      "name": "胡肖維",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "zhuangxj",
+      "name": "莊小健",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "yipkw",
+      "name": "葉嘉慧",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "yipkk",
+      "name": "葉建強",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "yipcp",
+      "name": "葉志棚",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "ipwp",
+      "name": "葉慧萍",
+      "role": "外判工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "siuwk",
+      "name": "蕭偉權",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "siukl",
+      "name": "蕭國良",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "siucf",
+      "name": "蕭張發",
+      "role": "TSS",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "sowm",
+      "name": "蘇偉文",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "huics",
+      "name": "許振聲",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "tsets",
+      "name": "謝天心",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "tseyp",
+      "name": "謝燕萍",
+      "role": "外判工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chiuwc",
+      "name": "趙詠芝",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "kwokty",
+      "name": "郭紫恩",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chowmw",
+      "name": "鄒文王",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "tangcp",
+      "name": "鄧展鵬",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chengny",
+      "name": "鄭雅燕",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chungy",
+      "name": "鍾焰",
+      "role": "職員",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "kwanwf",
+      "name": "關永輝",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chanks",
+      "name": "陳冠盛",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chansl",
+      "name": "陳瑞麗",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chanws",
+      "name": "陳穎思",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chanwm",
+      "name": "陳穎雯",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chanty",
+      "name": "陳紫欣",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chanmw",
+      "name": "陳美穎",
+      "role": "職員",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "chanps",
+      "name": "陳葆珊",
+      "role": "TA",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "nganct",
+      "name": "顏礎添",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "fungwail",
+      "name": "馮慧蘭",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "fungct",
+      "name": "馮靖桐",
+      "role": "職員",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "lokw",
+      "name": "駱理程",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "makkh",
+      "name": "麥冠雄",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongks",
+      "name": "黃冠姍",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongksum",
+      "name": "黃啟森",
+      "role": "社工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "huanggy",
+      "name": "黃桂英",
+      "role": "外判工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongyy",
+      "name": "黃玉儀",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongyc",
+      "name": "黃玉珠",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongsl",
+      "name": "黃瑞蓮",
+      "role": "校工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongsy",
+      "name": "黃秀英",
+      "role": "代課",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "wongdy",
+      "name": "黃迪宜",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "laiky",
+      "name": "黎家瑩",
+      "role": "社工",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
+    },
+    {
+      "id": "halilcan",
+      "name": "ＨＮ",
+      "role": "教師",
+      "status": "不在校",
+      "arrivedAt": null,
+      "checkedAt": "2026-10-25T00:46:53+08:00",
+      "priority": null
     }
   ]
 }

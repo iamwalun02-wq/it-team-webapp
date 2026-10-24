@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var DATA_URL = "data/latest.json?v=20261020c";
+  var DATA_URL = "data/latest.json?v=20261025a";
 
   var IT_MAINT_RE =
     /電腦|投影|音響|喇叭|擴音|影音|螢幕|遙控|iPad|ipad|LED|顯示器|mic|麥克風|amplifier|projector|TV|電視/;
@@ -254,10 +254,30 @@
     return String(v);
   }
 
+  function staffSortKey(r) {
+    var pr = r && r.priority != null ? Number(r.priority) : 9999;
+    if (isNaN(pr) || pr <= 0) pr = 9999;
+    return [pr, String((r && r.name) || ""), String((r && r.id) || "")];
+  }
+
+  function sortStaff(list) {
+    return (list || []).slice().sort(function (a, b) {
+      var ka = staffSortKey(a);
+      var kb = staffSortKey(b);
+      for (var i = 0; i < ka.length; i++) {
+        if (ka[i] < kb[i]) return -1;
+        if (ka[i] > kb[i]) return 1;
+      }
+      return 0;
+    });
+  }
+
   function renderStaff(list) {
     var el = document.getElementById("staffBody");
+    var countEl = document.getElementById("staffCount");
     if (!el) return;
-    list = list || [];
+    list = sortStaff(list || []);
+    if (countEl) countEl.textContent = String(list.length);
     if (!list.length) {
       el.innerHTML = emptyHtml("暫未有在校資料");
       return;
@@ -267,14 +287,26 @@
         var inSchool = r.status === "在校";
         var pillClass = inSchool ? "in" : "out";
         var status = inSchool ? "在校" : "不在校";
+        var isPri =
+          r.priority != null && Number(r.priority) >= 1 && Number(r.priority) <= 8;
+        var cardClass = isPri ? "staff-row staff-row--priority" : "staff-row";
+        var role = r.role ? '<span class="staff-role">' + esc(r.role) + "</span>" : "";
         return (
-          '<article class="staff-card">' +
+          '<article class="' +
+          cardClass +
+          '">' +
+          '<div class="staff-main">' +
           '<div class="staff-name">' +
           esc(r.name || r.id || "—") +
+          (isPri ? '<span class="staff-pin" title="優先監察">★</span>' : "") +
           "</div>" +
-          '<div class="staff-arrived">到校 <strong>' +
+          '<div class="staff-meta">' +
+          role +
+          '<span class="staff-arrived">到校 <strong>' +
           esc(formatArrived(r.arrivedAt)) +
-          "</strong></div>" +
+          "</strong></span>" +
+          "</div>" +
+          "</div>" +
           '<span class="status-pill ' +
           pillClass +
           '">' +
