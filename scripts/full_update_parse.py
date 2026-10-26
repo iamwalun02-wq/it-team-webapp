@@ -294,13 +294,25 @@ def main():
         raw_rows, prev_staff_list, same_day_for_staff, checked_at, approx_time
     )
     wd = WEEKDAYS[now.weekday()]
+    cal_tag = ""
+    try:
+        for line in Path("/cursor/stores/store-8cd4716e-07ec-44cf-b5ba-98566dcec2d1/calendar-2026-2027.md").read_text(encoding="utf-8").splitlines():
+            if line.startswith(today_s):
+                rest = line[len(today_s):].strip()
+                tok = (rest.split() or [""])[0]
+                if tok and tok not in ("周末",):
+                    cal_tag = tok
+                break
+    except Exception:
+        pass
+    label = f"{now.month}/{now.day}（{wd}）" + (f" {cal_tag}" if cal_tag else "")
     data = {
         "updatedAt": checked_at,
         "source": "intranet.cchpwss.edu.hk",
         "isExample": False,
         "calendarDate": today_s,
         "displayDate": today_s,
-        "displayLabel": f"{now.month}/{now.day}（{wd}）Day 7",
+        "displayLabel": label.strip(),
         "displayMode": "today",
         "equipment": parse_equipment(equip),
         "venues": parse_venues(venue),
