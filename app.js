@@ -305,6 +305,9 @@
           '<span class="staff-arrived">到校 <strong>' +
           esc(formatArrived(r.arrivedAt)) +
           "</strong></span>" +
+          '<span class="staff-departed">離校 <strong>' +
+          esc(formatArrived(r.departedAt)) +
+          "</strong></span>" +
           "</div>" +
           "</div>" +
           '<span class="status-pill ' +

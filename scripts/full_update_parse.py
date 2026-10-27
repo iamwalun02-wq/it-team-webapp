@@ -127,7 +127,12 @@ def staff_sort_key(row):
     return (pr, row.get("name") or "", row.get("id") or "")
 
 def build_staff_presence(raw_rows, prev_staff, same_day, checked_at, approx_time):
-    """Merge scraped rows with previous arrivedAt; return (staff_out, first_arrivals)."""
+    """Merge scraped rows with previous arrivedAt/departedAt; return (staff_out, first_arrivals).
+
+    - arrivedAt: earliest 在校 today (kept after leave)
+    - departedAt: latest transition 在校→不在校 today (kept if they return)
+    - Cross-day: both reset; first 在校 sets arrivedAt, departedAt=null
+    """
     prev_map = {s["id"]: s for s in (prev_staff or [])}
     first_arrivals = []
     staff_out = []
@@ -136,14 +141,34 @@ def build_staff_presence(raw_rows, prev_staff, same_day, checked_at, approx_time
         name = row.get("name") or PRIORITY_NAME.get(sid) or sid
         st = map_status(row.get("raw"))
         old = prev_map.get(sid) or {}
-        arrived = old.get("arrivedAt") if same_day else None
-        if st == "在校":
-            if not arrived:
-                arrived = checked_at
-                first_arrivals.append([name, approx_time, sid])
+        old_st = old.get("status")
+
+        if same_day:
+            arrived = old.get("arrivedAt") or None
+            departed = old.get("departedAt") or None
+            if st == "在校":
+                if not arrived:
+                    arrived = checked_at
+                    first_arrivals.append([name, approx_time, sid])
+                # Returning after leave: keep existing departedAt (do not clear)
+            else:
+                # 不在校
+                if old_st == "在校":
+                    # Latest leave time for the day
+                    departed = checked_at
+                if not arrived:
+                    arrived = None
+                    departed = None
         else:
-            # Keep first-arrival time for the day even after leave
-            arrived = old.get("arrivedAt") if (same_day and old.get("arrivedAt")) else None
+            # New calendar day (or tracking reset): clear both
+            if st == "在校":
+                arrived = checked_at
+                departed = None
+                first_arrivals.append([name, approx_time, sid])
+            else:
+                arrived = None
+                departed = None
+
         pr = PRIORITY_RANK.get(sid)
         staff_out.append({
             "id": sid,
@@ -151,6 +176,7 @@ def build_staff_presence(raw_rows, prev_staff, same_day, checked_at, approx_time
             "role": row.get("role") or old.get("role") or "",
             "status": st,
             "arrivedAt": arrived,
+            "departedAt": departed,
             "checkedAt": checked_at,
             "priority": pr,  # 1–8 for priority eight; null for others
         })

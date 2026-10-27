@@ -377,9 +377,15 @@ body {
   color: var(--muted);
 }
 
-.staff-arrived strong {
+.staff-arrived strong,
+.staff-departed strong {
   color: var(--text);
   font-weight: 600;
+}
+
+.staff-departed {
+  font-size: 0.75rem;
+  color: var(--muted);
 }
 
 .staff-row .status-pill {
