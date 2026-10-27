@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:12:25+08:00",
+  "updatedAt": "2026-10-27T08:19:44+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-10-27",
@@ -24,46 +24,28 @@
   ],
   "venues": [
     {
-      "time": "10月27日(二)Day--HALL/校內測考;0800-1300/P0–P1–P2–P3–RS–P4–P5–LHG02/校內測考;0800-1300/P0–P1–P2–P3–RS–P4–P5–LHCR/202;S3N2Tutorial;13:30-14:30/ASCR/308;forEnglishDepartmentStaffDevelopment;11am-12:45pm/P4–P5–LH 14:00–17:00",
-      "venue": "10月26日 (一) Day --",
-      "event": "10月30日 (五) Day --       HALL / 校內測考",
-      "note": "10月28日 (三) Day --      \n 107 / 奮進班;14:00~16:15 / P7, P8, CL, AS\n HALL / 龍獅隊訓練;16:00-18:00 / AS \n HALL / 校內測考;0800 - 1300 / P0, P1, P2, P3, RS, P4, P5, LH\n G02 / 校內測考;0800 - 1300 / P0, P1, P2, P3, RS, P4, P5, LH \n CPG / 射箭練習;1600-1800 / AS \n CR / 202;補課;2:00-4:00 / AS"
+      "time": "P0–P1–P2–P3–RS–P4–P5–LH 08:00–13:00",
+      "venue": "G02",
+      "event": "校內測考",
+      "note": "siuwk；未能借用→轉 是日沒有安排測考"
     },
     {
-      "time": "10月20日(二)Day7102/中六拔尖英文補課（E1）;17：00-18：30/AS107/ChoralSpeakingRehearsals;12.50-13.20/LHHALL/中六摸擬試卷練習;09:00-10:30/P2–P3HALL/varietyshowrehearsal/P6HALL/Varietyshowrehearsalfor3N(NYTF)/P2HALL/奮進班;15:15~17:00/CL–ASHALL/中文科集誦/RS–P4G02/中六數學科練習;0900-1030/P2–P3G02/一人一體藝:武術學會/龍獅隊;1600-1800/ASCPG/一人一體藝:花式跳繩學會;1600-1700/ASPG/田徑;1600-1700/ASCR/507;補課/ASCR/306;ST上堂/P0–P1–P2–P3–RS–P4–P5–LH–P6–P7–P8–CL–ASCR/606;一人一體藝_電子琴學會;16:00-17:00/ASCR/601–505;一人一體藝_STEM;1600-1700/ASCR/602-603;一人一體藝_結他;1600-17:00/ASCR/413;一人一體藝劇社;1600-1700/ASCR/202-204–301;一人一體藝_中樂;1600-1700/ASCR/502;中六經濟補課;15:50-16:50/ASCR/501;中六中史補課;15:50-16:50/ASCR/614;中六物理補課;15:50-16:50/ASCR/302-305;一人一體藝_管弦;1600-1700/ASCR/415;中六生物補課;15:50-16:50/ASCR/212;一人一體藝;16:00-17:00/ASCR/503;中六歷史補課;15:50-16:50/ASLobby/播放普通話電視節目/LH 12:50–13:20",
-      "venue": "10月19日 (一) Day --",
-      "event": "10月23日 (五) Day 10       108 / 5:00-5:30 / AS  108 / 煮飯吃 / LH 108 / 上游之星獎勵計劃 / LH HALL / 聯課活動:羽毛球校隊",
-      "note": "10月21日 (三) Day 8      \n 102 / 中六拔尖英文補課（E3）;17：30-19：00 / AS\n 107 / Choral Speaking Rehearsals;1 hour / AS\n HALL / S6 uniform quiz\n6 rows (each row 10 tables) / P4, P5\n HALL / Variety show rehearsal / P2, P3\n HALL / Variety show rehearsal for 3N (WL) / P1\n HALL / 龍獅隊訓練;16:00-18:00 / AS\n HALL / Variety show rehearsal for 3CA (NCT) / P3\n G02 / 啦啦隊練習;1700-1800 / AS\n G02 / 練歌 / LH \n G02 / Variety Show rehearsal / P2, P3 \n G02 / 奮進班;15:15~17:00 / CL, AS\n CPG / 射箭練習;1600-1800 / AS\n CR / 413;中六公民補課;15:50-16:50 / AS\n CR / 606;午間小組 / LH\n CR / 202;中六拔尖補習（數學）;1600 - 1730 / AS\n CR / 401;補課;4-5 / AS \n CR / 505 電腦室;中文科AI培訓;4:00-6:00 / AS\n CR / 203;中六拔尖補習（英文）;1600 - 1730 / AS\n 201 / 201;study with student / AS"
+      "time": "P0–P1–P2–P3–RS–P4–P5–LH 08:00–13:00",
+      "venue": "HALL",
+      "event": "校內測考",
+      "note": "siuwk；nks跟進;myc跟進"
     },
     {
-      "time": "11月10日(二)Day7107/奮進班;15:15~17:00/CL–AS107/ChoralSpeakingRehearsals;12.50-13.20/LHHALL/varietyshowrehearsalfor3CA3(NCT)/P6HALL/中三級TSA補課;1535-1715/CL–ASHALL/EnglishWeek-Kahoot!(S4-6);12:50-1:20pm/LHHALL/交流團行前簡介會;11:35-12:20/P5HALL/中六摸擬試卷練習;09:00-10:30/P2–P3G02/一人一體藝:武術學會/龍獅隊;1600-1800/ASG02/RehearsalforS3VarietyShow/P6CPG/一人一體藝花式跳繩學會;1600-1700/ASPG/田徑;16:00-1700/ASCR/501;午間中文小組;12:50-13:20/LHCR/212;一人一體藝;16:00-17:00/ASCR/407;中四DLG學習技巧班;1600-1715/ASCR/614;中六物理補課;15:50-16:50/ASCR/602-603;一人一體藝_結他;1600-1700/ASCR/606;一人一體藝_電子琴學會;1600-1700/ASCR/202-204–301;1600-1700(一人一體藝_中樂)/ASCR/601–505;一人一體藝_STEM學會;1600-1700/ASCR/302-305;一人一體藝_管弦;16:00-17:00/ASCR/413;一人一體藝劇社;1600-1700/ASCR/415;中六生物補課;15:50-16:50/ASCR/502;中六經濟補課;15:50-16:50/ASCR/503;中六歷史補課;15:50-16:50/ASCR/501;中六中史補課;15:50-16:50/ASTCHA/306;ST上堂/P0–P1–P2–P3–RS–P4–P5–LH–P6–P7–P8–CL–ASLobby/播放普通話電視節目/LH 14:45–16:15",
-      "venue": "11月9日 (一) Day 6",
-      "event": "11月13日 (五) Day 10       107 / 中六級jupas開戶",
-      "note": "11月11日 (三) Day 8      \n 102 / 中六拔尖英文補課（E3）;17：30-19：00 / AS \n 107 / Choral Speaking Rehearsals;1 hour / AS \n HALL / Variety show for 3N1, 3N2 / LH \n HALL / 龍獅隊訓練;16:00-18:00 / AS \n HALL / English Week Stall Games Fun;8 am - 4 pm / P0, P1, P2, P3, RS, P4, P5, LH, P6, P7, P8, CL, AS \n HALL / Variety show rehearsal for 3CA1,3CA2,3CA3 / P2, P3 \n G02 / 奮進班;15:15~17:00 / CL, AS \n G02 / 中五級中文科校本評核口頭匯報講稿寫作 / P7, P8 \n CPG / 射箭練習;1600-1800 / AS \n CR / 405;廣州一天考察團行前簡介會 / CL, AS \n CR / 203;中六拔尖補習（英文）;1600 - 1730 / AS \n CR / 501;午間小組 / LH \n CR / 413;中六公民補課;15:50-16:50 / AS \n CR / 202;中六拔尖補習（數學）;1600 - 1730 / AS \n CR / 204;中六拔尖補習（英文）;1600 - 1730 / AS \n CR / 502、503、504;中二級AYP;16:00 - 17:00 / AS"
+      "time": "P4–P5–LH",
+      "venue": "308",
+      "event": "for English Department Staff Development；11 am - 12:45 pm",
+      "note": "ngnc"
     },
     {
-      "time": "11月17日(二)Day2102/中六拔尖補習(E1);17:00-18:30/AS107/ChoralSpeakingRehearsals;12.50-13.20/LH107/奮進班;15:15~17:00/CL–ASHALL/中三級TSA補課;1535-1715/CL–ASHALL/中六校內測考/P2–P3–RSHALL/中六摸擬試卷練習;10:50-12:20/P4–P5G02/一人一體藝:武術學會/龍獅隊;1600-1800/ASCPG/一人一體藝花式跳繩學會;1600-1700/ASPG/田徑;16:00-1700/ASCR/407;中四DLG學習技巧班;1600-1715/ASCR/503;中六資通補課;15:50-16:50/ASCR/212;一人一體藝;16:00-17:00/ASCR/612;中六化學補課;15:50-16:50/ASCR/501;中六企財補課;15:50-16:50/ASCR/502;中六地理尖補課;15:50-16:50/ASCR/202-204–301;1600-1700(一人一體藝_中樂)/ASCR/302-305;一人一體藝_管弦;16:00-17:00/ASCR/602-603;一人一體藝_結他;1600-1700/ASCR/606;一人一體藝_電子琴學會;1600-1700/ASCR/215;中六視藝補課;15:50-16:50/ASCR/413;一人一體藝劇社;1600-1700/ASCR/601–505;一人一體藝_STEM學會;1600-1700/ASTCHA/306;ST上堂/P0–P1–P2–P3–RS–P4–P5–LH–P6–P7–P8–CL–ASLobby/舉行普通話午間攤位活動及播放普通話電視節目/LH",
-      "venue": "11月16日 (一) Day 1",
-      "event": "11月20日 (五) Day --",
-      "note": "11月18日 (三) Day 3      \n 101 / 中一級級會;15:50~17:00 / CL, AS \n 102 / 中五級級會;15:50~17:00 / AS \n 102 / 中六拔尖補習(E3);17:30-19:00 / AS \n 107 / Choral Speaking Rehearsals;1 hour / AS \n 108 / 中四級級會;15:50~17:00 / AS \n HALL / 龍獅隊訓練;16:00-18:00 / AS \n HALL / oral practice / P3 \n G02 / 奮進班;15:50~17:00 / CL, AS \n CPG / 射箭練習;1600-1800 / AS \n PG / 躲避盤比賽;12:30-13:15 / LH \n CR / 401;午間小組 / LH \n CR / 413;中六公民補課;15:50-16:50 / AS \n CR / 203;中六拔尖補習（英文）;1600 - 1730 / AS \n CR / 202;中六拔尖補習（數學）;1600 - 1730 / AS \n TCHB / 中二級級會;15:50~17:00 / AS \n TCHC / 中六級級會;15:50~17:00 / AS \n 201 / 中三級級會;15:50~17:00 / AS"
-    },
-    {
-      "time": "11月24日(二)Day7107/奮進班;15:15~17:00/CL–ASHALL/中三級TSA補課;1535-1715/CL–ASHALL/中六摸擬試卷練習;09:00-10:30/P2–P3G02/一人一體藝:武術學會/龍獅隊;1600-1800/ASCPG/一人一體藝花式跳繩學會;1600-1700/ASPG/田徑;16:00-1700/ASCR/415;中六生物補課;15:50-16:50/ASCR/614;中六物理補課;15:50-16:50/ASCR/407;中四DLG學習技巧班;1600-1715/ASCR/212;一人一體藝;16:00-17:00/ASCR/503;中六歷史補課;15:50-16:50/ASCR/501;中六中史補課;15:50-16:50/ASCR/502;中六經濟補課;15:50-16:50/ASCR/602-603;一人一體藝_結他;1600-1700/ASCR/202-204–301;1600-1700(一人一體藝_中樂)/ASCR/302-305;一人一體藝_管弦;16:00-17:00/ASCR/606;一人一體藝_電子琴學會;1600-1700/ASCR/413;一人一體藝劇社;1600-1700/ASCR/601–505;一人一體藝_STEM學會;1600-1700/ASTCHA/306;ST上堂/P0–P1–P2–P3–RS–P4–P5–LH–P6–P7–P8–CL–ASLobby/播放普通話電視節目/LH 14:45–16:15",
-      "venue": "11月23日 (一) Day 6",
-      "event": "11月27日 (五) Day 10       108 / 上游之星獎勵計劃 / LH  HALL / 聯課活動:羽毛球校隊",
-      "note": "11月25日 (三) Day 8      \n 102 / 中六拔尖補習(E3);17:30-19:00 / AS \n HALL / 龍獅隊訓練;16:00-18:00 / AS \n HALL / 中五級中文科校本評核口頭匯報講稿寫作 / P7, P8 \n HALL / S6 uniform quiz\n12 rows (each row 10 tables) / P4, P5 \n G02 / 奮進班;15:15~17:00 / CL, AS \n CPG / 射箭練習;1600-1800 / AS \n CR / 413;中六公民補課;15:50-16:50 / AS \n CR / 204;中六拔尖補習（英文）;1600 - 1730 / AS \n CR / 202;中六拔尖補習（數學）;1600 - 1730 / AS \n CR / 203;中六拔尖補習（英文）;1600 - 1730 / AS"
-    },
-    {
-      "time": "11月3日(二)Day2101/CYC會議;11:00-12:00/RS–P4–P5107/ChoralSpeakingRehearsals;12.50-13.20/LH107/奮進班;15:15~17:00/CL–ASHALL/中六摸擬試卷練習;10:50-12:20/P4–P5HALL/Varietyshowrehearsalfor3N2(WL)/P4–P5HALL/中六校內測考/P2–P3–RSG02/RehearsalforS3VarietyShow/P3CR/705+7樓殘廁;請把7樓攝錄機遮蓋好，705向走廊門窗的玻璃窗都要遮蔽好，705室內準備好10隻紙杯，一瓶溫水(不要熱水)，抺手紙等–..另外，殘廁必須要有廁紙。/P0–P1–P2–P3–RS–P4–P5CR/503;中六資通補課;15:50-16:50/ASCR/215;中六視藝補課;15:50-16:50/ASCR/612;中六化學補課;15:50-16:50/ASCR/502;中六地理補課;15:50-16:50/ASCR/501;中六企財補課;15:50-16:50/ASTCHA/306;ST上堂/P0–P1–P2–P3–RS–P4–P5–LH–P6–P7–P8–CL–ASLobby/播放普通話電視節目/LHLobby/校服商派校服/LH 16:00–17:30",
-      "venue": "11月2日 (一) Day 1",
-      "event": "11月6日 (五) Day 5       107 / 奮進班",
-      "note": "11月4日 (三) Day --      \n HALL / 紅磚路及禮堂天台(維修禮堂天台) / P0, P1, P2, P3, RS, P4, P5, LH, P6, P7, P8, CL, AS"
-    },
-    {
-      "time": "Tue",
-      "venue": "Mon",
-      "event": "Fri",
-      "note": "Wed"
+      "time": "AS 13:30–14:30",
+      "venue": "202",
+      "event": "S3N2 Tutorial",
+      "note": "ngyt"
     }
   ],
   "maintenance": [
@@ -117,7 +99,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 1
     },
     {
@@ -126,7 +108,7 @@
       "role": "TSS",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 2
     },
     {
@@ -135,7 +117,7 @@
       "role": "職員",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 3
     },
     {
@@ -144,7 +126,7 @@
       "role": "職員",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:23:51+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 4
     },
     {
@@ -153,7 +135,7 @@
       "role": "職員",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:03:10+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 5
     },
     {
@@ -162,7 +144,7 @@
       "role": "職員",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 6
     },
     {
@@ -171,7 +153,7 @@
       "role": "實驗室技術",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:33:43+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 7
     },
     {
@@ -180,7 +162,7 @@
       "role": "實驗室技術",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:14:08+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": 8
     },
     {
@@ -189,7 +171,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -198,7 +180,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:47:52+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -207,7 +189,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -216,7 +198,7 @@
       "role": "外判工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -225,7 +207,7 @@
       "role": "保安",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -234,7 +216,7 @@
       "role": "保安",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:03:10+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -243,7 +225,7 @@
       "role": "校工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -252,7 +234,7 @@
       "role": "實驗室技術",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -261,7 +243,7 @@
       "role": "校工",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -270,7 +252,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -279,7 +261,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -288,7 +270,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:14:08+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -297,7 +279,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -306,7 +288,7 @@
       "role": "職員",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -315,7 +297,7 @@
       "role": "外判工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -324,7 +306,7 @@
       "role": "外判工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -333,7 +315,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -342,7 +324,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:47:52+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -351,7 +333,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -360,7 +342,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:47:52+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -369,7 +351,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:47:52+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -378,7 +360,7 @@
       "role": "外判工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -387,7 +369,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -396,7 +378,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -405,7 +387,7 @@
       "role": "心理",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -414,7 +396,7 @@
       "role": "校長",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:33:43+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -423,7 +405,7 @@
       "role": "TSS",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -432,7 +414,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:23:51+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -441,7 +423,7 @@
       "role": "TA",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:14:08+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -450,7 +432,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -459,7 +441,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -468,7 +450,7 @@
       "role": "TA",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -477,7 +459,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -486,16 +468,16 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:14:08+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
       "id": "lith",
       "name": "李東雄",
       "role": "校工",
-      "status": "不在校",
-      "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "status": "在校",
+      "arrivedAt": "2026-10-27T08:19:44+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -504,7 +486,7 @@
       "role": "TA",
       "status": "在校",
       "arrivedAt": "2026-10-27T08:05:38+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -513,7 +495,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:03:10+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -522,7 +504,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:16:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -531,7 +513,7 @@
       "role": "校工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -540,7 +522,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:23:51+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -549,7 +531,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -558,7 +540,7 @@
       "role": "職員",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:03:10+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -567,7 +549,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T08:05:38+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -576,7 +558,7 @@
       "role": "言語治療師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -585,7 +567,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -594,7 +576,7 @@
       "role": "TA",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -603,7 +585,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:14:08+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -612,7 +594,7 @@
       "role": "教師",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -621,7 +603,7 @@
       "role": "TA",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -630,7 +612,7 @@
       "role": "校工",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:03:10+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -639,7 +621,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -648,7 +630,7 @@
       "role": "校工",
       "status": "在校",
       "arrivedAt": "2026-10-27T08:05:38+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -657,7 +639,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -666,7 +648,7 @@
       "role": "外判工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -675,7 +657,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:47:52+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -684,7 +666,7 @@
       "role": "校工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -693,7 +675,7 @@
       "role": "TSS",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -702,7 +684,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:33:43+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -711,7 +693,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:14:08+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -720,7 +702,7 @@
       "role": "校工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -729,7 +711,7 @@
       "role": "外判工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -738,7 +720,7 @@
       "role": "TA",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:47:52+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -747,7 +729,7 @@
       "role": "TA",
       "status": "在校",
       "arrivedAt": "2026-10-27T08:05:38+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -756,7 +738,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -765,7 +747,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:14:08+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -774,7 +756,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -783,7 +765,7 @@
       "role": "職員",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -792,7 +774,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:33:43+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -801,7 +783,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -810,7 +792,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -819,7 +801,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:23:51+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -828,7 +810,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -837,7 +819,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -846,7 +828,7 @@
       "role": "職員",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -855,7 +837,7 @@
       "role": "TA",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -864,7 +846,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -873,7 +855,7 @@
       "role": "校工",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:03:10+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -882,7 +864,7 @@
       "role": "職員",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -891,7 +873,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:58:34+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -900,7 +882,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -909,7 +891,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -918,7 +900,7 @@
       "role": "社工",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -927,7 +909,7 @@
       "role": "外判工",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -936,7 +918,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:29:40+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -945,7 +927,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:47:52+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -954,7 +936,7 @@
       "role": "校工",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:03:10+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -963,7 +945,7 @@
       "role": "代課",
       "status": "不在校",
       "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -972,16 +954,16 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:44:11+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
       "id": "laiky",
       "name": "黎家瑩",
       "role": "社工",
-      "status": "不在校",
-      "arrivedAt": null,
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "status": "在校",
+      "arrivedAt": "2026-10-27T08:19:44+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     },
     {
@@ -990,7 +972,7 @@
       "role": "教師",
       "status": "在校",
       "arrivedAt": "2026-10-27T07:55:50+08:00",
-      "checkedAt": "2026-10-27T08:12:25+08:00",
+      "checkedAt": "2026-10-27T08:19:44+08:00",
       "priority": null
     }
   ]
