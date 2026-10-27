@@ -5,10 +5,11 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 HK = ZoneInfo("Asia/Hong_Kong")
-# Priority eight — always listed first (rank 1–8). Others follow.
+# Priority nine — always listed first (rank 1–9). Others follow.
 PRIORITY_STAFF = [
     ("ngkf", "吳國鋒"),
     ("ipch", "葉志濠"),
+    ("siucf", "蕭張發"),
     ("tolina", "陶理諾"),
     ("leeoz", "李靄晴"),
     ("lungyw", "龍躍雲"),
@@ -105,7 +106,7 @@ def parse_staff(text):
             continue
         seen.add(sid)
         out.append({"id": sid, "name": name, "role": role, "raw": raw})
-    # Guarantee priority eight even if a row was missing from HTML
+    # Guarantee priority nine even if a row was missing from HTML
     have = {r["id"] for r in out}
     for sid, name in PRIORITY_STAFF:
         if sid not in have:
@@ -178,7 +179,7 @@ def build_staff_presence(raw_rows, prev_staff, same_day, checked_at, approx_time
             "arrivedAt": arrived,
             "departedAt": departed,
             "checkedAt": checked_at,
-            "priority": pr,  # 1–8 for priority eight; null for others
+            "priority": pr,  # 1–9 for priority nine; null for others
         })
     staff_out.sort(key=staff_sort_key)
     return staff_out, first_arrivals

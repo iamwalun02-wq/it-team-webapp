@@ -288,7 +288,7 @@
         var pillClass = inSchool ? "in" : "out";
         var status = inSchool ? "在校" : "不在校";
         var isPri =
-          r.priority != null && Number(r.priority) >= 1 && Number(r.priority) <= 8;
+          r.priority != null;
         var cardClass = isPri ? "staff-row staff-row--priority" : "staff-row";
         var role = r.role ? '<span class="staff-role">' + esc(r.role) + "</span>" : "";
         return (
