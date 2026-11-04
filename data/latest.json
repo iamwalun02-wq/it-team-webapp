@@ -119,9 +119,9 @@
       "id": "siucf",
       "name": "蕭張發",
       "role": "TSS",
-      "status": "不在校",
+      "status": "在校",
       "arrivedAt": "2026-11-04T08:13:00+08:00",
-      "departedAt": "2026-11-04T16:16:10+08:00",
+      "departedAt": null,
       "checkedAt": "2026-11-04T16:16:10+08:00",
       "priority": 3
     },
