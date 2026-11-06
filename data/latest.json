@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:12:51+08:00",
+  "updatedAt": "2026-11-06T09:15:29+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-11-06",
@@ -8,6 +8,13 @@
   "displayMode": "today",
   "equipment": [
     {
+      "period": "P1",
+      "item": "iPad ×13",
+      "who": "wongw",
+      "note": "history／303／技術員送收；確定可用",
+      "remark": ""
+    },
+    {
       "period": "P2",
       "item": "iPad ×25",
       "who": "limc",
@@ -15,39 +22,32 @@
       "remark": ""
     },
     {
-      "period": "P3",
-      "item": "iPad ×30",
-      "who": "limc",
-      "note": "LIMC 中五公民／304／技術員送收；確定可用",
-      "remark": ""
+      "period": "P2",
+      "item": "iPad ×28",
+      "who": "likh",
+      "note": "S5 公民／413／技術員送收；確定可用",
+      "remark": "考察前工作紙用"
     },
     {
-      "period": "P4",
+      "period": "P2",
       "item": "iPad ×25",
-      "who": "limc",
-      "note": "LIMC 中五公民／304／技術員送收；確定可用",
+      "who": "tsangcm",
+      "note": "5CAN／302／技術員送收；確定可用",
       "remark": ""
     },
     {
-      "period": "P5",
-      "item": "iPad ×30",
-      "who": "limc",
-      "note": "LIMC 中五公民／304／技術員送收；確定可用",
+      "period": "P3",
+      "item": "iPad ×19",
+      "who": "lamny",
+      "note": "2A／503／技術員送收；確定可用",
       "remark": ""
     },
     {
-      "period": "P6",
-      "item": "iPad ×30",
-      "who": "limc",
-      "note": "LIMC 中五公民／304／技術員送收；確定可用",
-      "remark": ""
-    },
-    {
-      "period": "P7",
-      "item": "iPad ×30",
-      "who": "limc",
-      "note": "LIMC 中五公民／304／技術員送收；確定可用",
-      "remark": ""
+      "period": "P7, P8",
+      "item": "iPad ×21",
+      "who": "ngkf",
+      "note": "湖小STEM／514／技術員送收；確定可用",
+      "remark": "需要 gemini, thanks"
     }
   ],
   "venues": [
