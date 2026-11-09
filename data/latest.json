@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T15:14:17+08:00",
+  "updatedAt": "2026-11-09T16:15:48+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-11-09",
@@ -87,7 +87,7 @@
       "time": "P2, P3, RS",
       "venue": "HALL 禮堂",
       "event": "中六校內測考",
-      "note": "未能借用；Cancelled by ChanSL"
+      "note": "Cancelled by ChanSL"
     },
     {
       "time": "P3, RS, P4, P5, LH, P6, P7, P8, CL, AS",
@@ -146,7 +146,7 @@
     {
       "time": "AS",
       "venue": "CR 課室",
-      "event": "402; Choral Speaking Rehearsals;1 hour",
+      "event": "502、503、504;中二級AYP;16:00 - 17:00",
       "note": "---"
     },
     {
@@ -158,13 +158,13 @@
     {
       "time": "AS",
       "venue": "CR 課室",
-      "event": "502、503、504;中二級AYP;16:00 - 17:00",
+      "event": "304;中五DLG英語閱讀班;1600 - 1715",
       "note": "---"
     },
     {
       "time": "AS",
       "venue": "CR 課室",
-      "event": "304;中五DLG英語閱讀班;1600 - 1715",
+      "event": "402; Choral Speaking Rehearsals;1 hour",
       "note": "---"
     },
     {
@@ -177,10 +177,17 @@
       "time": "AS",
       "venue": "HALL 禮堂",
       "event": "S3N(1) Variety Show",
-      "note": "未能借用；AYP"
+      "note": "AYP"
     }
   ],
   "maintenance": [
+    {
+      "id": "#11598",
+      "place": "4 樓 - 4A 課室(406)",
+      "issue": "近門口第三行的第三個位的桌子需維修",
+      "status": "待跟進",
+      "category": "設施"
+    },
     {
       "id": "#11597",
       "place": "2 樓 - 二樓走廊",
@@ -246,7 +253,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 1
     },
     {
@@ -256,7 +263,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 2
     },
     {
@@ -266,7 +273,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 3
     },
     {
@@ -276,7 +283,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T09:42:39+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 4
     },
     {
@@ -286,7 +293,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 5
     },
     {
@@ -296,7 +303,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 6
     },
     {
@@ -306,7 +313,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 7
     },
     {
@@ -316,7 +323,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 8
     },
     {
@@ -326,7 +333,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:22:21+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": 9
     },
     {
@@ -336,7 +343,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -346,7 +353,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -356,7 +363,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -366,7 +373,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -376,7 +383,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -386,7 +393,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -396,7 +403,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -406,7 +413,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -416,7 +423,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -426,7 +433,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": "2026-11-09T12:14:35+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -436,7 +443,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -446,7 +453,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -456,7 +463,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -466,7 +473,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -476,27 +483,27 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T13:17:33+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
       "id": "janitor03",
       "name": "外判工1_替工",
       "role": "外判工",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-09T16:15:48+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
       "id": "janitor04",
       "name": "外判工2_替工",
       "role": "外判工",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-09T16:15:48+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -506,7 +513,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -516,7 +523,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -526,7 +533,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -536,7 +543,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -546,17 +553,17 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
       "id": "zhangsj",
       "name": "張少娟",
       "role": "外判工",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-09T16:15:48+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -566,7 +573,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -576,7 +583,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -586,7 +593,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -596,7 +603,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -606,17 +613,17 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
       "id": "tsangcm",
       "name": "曾銍銘",
       "role": "教師",
-      "status": "在校",
+      "status": "不在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
-      "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "departedAt": "2026-11-09T16:15:48+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -626,7 +633,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -636,7 +643,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -646,7 +653,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -656,7 +663,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -666,7 +673,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -676,7 +683,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:22:21+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -686,7 +693,7 @@
       "status": "不在校",
       "arrivedAt": "2026-11-09T08:25:37+08:00",
       "departedAt": "2026-11-09T09:16:04+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -696,7 +703,7 @@
       "status": "不在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": "2026-11-09T14:17:22+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -706,7 +713,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -716,7 +723,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:22:21+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -726,7 +733,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T14:17:22+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -736,7 +743,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:22:21+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -746,7 +753,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -756,7 +763,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -766,7 +773,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -776,7 +783,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -786,7 +793,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -796,7 +803,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -806,7 +813,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -816,7 +823,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -826,7 +833,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -836,7 +843,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -846,7 +853,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -856,7 +863,7 @@
       "status": "不在校",
       "arrivedAt": "2026-11-09T08:25:37+08:00",
       "departedAt": "2026-11-09T14:17:22+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -866,7 +873,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -876,7 +883,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -886,7 +893,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -896,7 +903,7 @@
       "status": "不在校",
       "arrivedAt": "2026-11-09T08:53:44+08:00",
       "departedAt": "2026-11-09T12:14:35+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -906,7 +913,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -916,7 +923,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -926,7 +933,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T12:14:35+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -936,7 +943,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -946,7 +953,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -956,7 +963,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": "2026-11-09T14:17:22+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -966,7 +973,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -976,7 +983,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -986,7 +993,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -996,7 +1003,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1006,7 +1013,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1016,7 +1023,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1026,7 +1033,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1036,7 +1043,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:22:21+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1046,7 +1053,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1056,7 +1063,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1066,7 +1073,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": "2026-11-09T13:17:33+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1076,7 +1083,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1086,7 +1093,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1096,7 +1103,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1106,7 +1113,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1116,7 +1123,7 @@
       "status": "不在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": "2026-11-09T11:14:53+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1126,7 +1133,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1136,7 +1143,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1146,7 +1153,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T09:16:04+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1156,7 +1163,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:32:57+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1166,7 +1173,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1176,7 +1183,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:52:00+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1186,7 +1193,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:12:07+08:00",
       "departedAt": "2026-11-09T12:14:35+08:00",
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1196,7 +1203,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1206,7 +1213,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T07:43:05+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1216,7 +1223,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:53:44+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     },
     {
@@ -1226,7 +1233,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-09T08:02:42+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-09T15:14:17+08:00",
+      "checkedAt": "2026-11-09T16:15:48+08:00",
       "priority": null
     }
   ]
