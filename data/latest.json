@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T07:48:04+08:00",
+  "updatedAt": "2026-11-11T07:52:41+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-11-11",
   "displayDate": "2026-11-11",
-  "displayLabel": "11/11（三） Day 8 英文周",
+  "displayLabel": "11/11（三）",
   "displayMode": "today",
   "equipment": [
     {
@@ -220,7 +220,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 1
     },
     {
@@ -228,9 +228,9 @@
       "name": "葉志濠",
       "role": "TSS",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 2
     },
     {
@@ -240,7 +240,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 3
     },
     {
@@ -250,7 +250,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 4
     },
     {
@@ -260,7 +260,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 5
     },
     {
@@ -270,7 +270,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 6
     },
     {
@@ -280,7 +280,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 7
     },
     {
@@ -290,7 +290,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 8
     },
     {
@@ -300,7 +300,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": 9
     },
     {
@@ -310,7 +310,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -318,9 +318,9 @@
       "name": "伍毅慈",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -328,9 +328,9 @@
       "name": "何迪康",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -350,7 +350,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -360,7 +360,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -370,7 +370,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -380,37 +380,37 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "ngsh",
       "name": "吳少雄",
       "role": "校工",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "ngmf",
       "name": "吳文發",
       "role": "教師",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "ngmh",
       "name": "吳旻熹",
       "role": "教師",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -430,7 +430,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -440,7 +440,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -450,7 +450,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -460,7 +460,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -470,7 +470,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -478,9 +478,9 @@
       "name": "尹景峰",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -488,9 +488,9 @@
       "name": "布曉藍",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -498,19 +498,19 @@
       "name": "常頤德",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "liucy",
       "name": "廖仲賢",
       "role": "教師",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -520,7 +520,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -538,9 +538,9 @@
       "name": "張耀麟",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -558,9 +558,9 @@
       "name": "方嘉琪",
       "role": "校長",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -570,7 +570,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -580,7 +580,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -590,7 +590,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -598,9 +598,9 @@
       "name": "李健文",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -608,19 +608,19 @@
       "name": "李啟豪",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "leekf",
       "name": "李嘉鳳",
       "role": "TA",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -628,9 +628,9 @@
       "name": "李文宇",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -640,7 +640,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -650,7 +650,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -660,7 +660,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -670,7 +670,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -680,7 +680,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:23:02+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -690,7 +690,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -720,17 +720,17 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "liangyt",
       "name": "梁逸濤",
       "role": "教師",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -740,7 +740,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -748,9 +748,9 @@
       "name": "楊菁",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -760,7 +760,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -780,7 +780,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -790,7 +790,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -800,7 +800,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -810,7 +810,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -818,9 +818,9 @@
       "name": "葉嘉慧",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -830,7 +830,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -840,7 +840,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -850,7 +850,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -860,7 +860,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:23:02+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -870,7 +870,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -880,7 +880,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -890,7 +890,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -900,7 +900,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -910,17 +910,17 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "chiuwc",
       "name": "趙詠芝",
       "role": "TA",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -940,7 +940,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -950,7 +950,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -960,7 +960,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -970,7 +970,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -980,7 +980,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -990,7 +990,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1000,7 +1000,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:19:09+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1018,9 +1018,9 @@
       "name": "陳穎雯",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1030,7 +1030,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1040,7 +1040,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1050,7 +1050,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1058,9 +1058,9 @@
       "name": "顏礎添",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1070,7 +1070,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1080,7 +1080,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1088,9 +1088,9 @@
       "name": "駱理程",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1098,9 +1098,9 @@
       "name": "麥冠雄",
       "role": "教師",
       "status": "在校",
-      "arrivedAt": "2026-11-11T07:48:04+08:00",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1110,7 +1110,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1120,7 +1120,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1130,7 +1130,7 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1140,17 +1140,17 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:35:36+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "wongyc",
       "name": "黃玉珠",
       "role": "教師",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1160,17 +1160,17 @@
       "status": "在校",
       "arrivedAt": "2026-11-11T07:02:13+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
       "id": "wongdy",
       "name": "黃迪宜",
       "role": "教師",
-      "status": "不在校",
-      "arrivedAt": null,
+      "status": "在校",
+      "arrivedAt": "2026-11-11T07:52:41+08:00",
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1180,7 +1180,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     },
     {
@@ -1190,7 +1190,7 @@
       "status": "不在校",
       "arrivedAt": null,
       "departedAt": null,
-      "checkedAt": "2026-11-11T07:48:04+08:00",
+      "checkedAt": "2026-11-11T07:52:41+08:00",
       "priority": null
     }
   ]
