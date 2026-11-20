@@ -29,64 +29,7 @@
       "note": "ngnc；咪、電腦、LED wall、左右TV、空調；S4 Exam setting；nks跟進；確定可用"
     }
   ],
-  "maintenance": [
-    {
-      "id": "#11601",
-      "place": "5樓 - 電腦室(505)",
-      "issue": "9號mon的電腦未能開啟",
-      "status": "已完成",
-      "category": "設施"
-    },
-    {
-      "id": "#11600",
-      "place": "5樓 - 電腦室(505)",
-      "issue": "9號電腦的畫面出不了屏幕",
-      "status": "已完成",
-      "category": "電腦影音"
-    },
-    {
-      "id": "#11599",
-      "place": "1樓 - 教員室(113)",
-      "issue": "本人辦公椅自動下降。",
-      "status": "待跟進",
-      "category": "設施"
-    },
-    {
-      "id": "#11597",
-      "place": "2樓 - 二樓走廊",
-      "issue": "音樂室外的櫃門壞咗 (212櫃3B的鎖和門鉸)",
-      "status": "跟進中",
-      "category": "設施"
-    },
-    {
-      "id": "#11526",
-      "place": "6樓 - 1A 課室(603)",
-      "issue": "近窗後方風扇開唔到",
-      "status": "跟進中",
-      "category": "設施"
-    },
-    {
-      "id": "#11519",
-      "place": "2樓 - 6C 課室(202)",
-      "issue": "近門口風扇壞了，不能動",
-      "status": "跟進中",
-      "category": "設施"
-    },
-    {
-      "id": "#11283",
-      "place": "3樓 - 5C 課室(302)",
-      "issue": "課室後方鮮風機有怪聲",
-      "status": "跟進中",
-      "category": "設施"
-    },
-    {
-      "id": "#11209",
-      "place": "5樓 - 電腦室(505)",
-      "issue": "空氣清新機開啟後沒有風、閃 L 燈",
-      "status": "待跟進",
-      "category": "設施"
-    }
-  ],
+  "maintenance": [],
   "staffPresence": [
     {
       "id": "ngkf",
