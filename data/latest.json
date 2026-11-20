@@ -6,7 +6,15 @@
   "displayDate": "2026-11-20",
   "displayLabel": "11/20（五）",
   "displayMode": "today",
-  "equipment": [],
+  "equipment": [
+    {
+      "period": "P1–P2–P3",
+      "item": "iPad ×100",
+      "who": "ngnc",
+      "note": "4A, 4C, 4N／Hall／技術員送收；確定可用",
+      "remark": "Extended Learning Activity Day Training"
+    }
+  ],
   "venues": [],
   "maintenance": [
     {
