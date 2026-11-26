@@ -6,7 +6,92 @@
   "displayDate": "2026-11-26",
   "displayLabel": "11/26（四）",
   "displayMode": "today",
-  "equipment": [],
+  "equipment": [
+    {
+      "period": "P3",
+      "item": "iPad ×25",
+      "who": "lokw",
+      "note": "2CA(1)／502／技術員送收；待批",
+      "remark": ""
+    },
+    {
+      "period": "P3",
+      "item": "iPad ×30",
+      "who": "pohl",
+      "note": "3CA／402／技術員送收；確定可用",
+      "remark": ""
+    },
+    {
+      "period": "P4",
+      "item": "iPad ×16",
+      "who": "lokw",
+      "note": "3N(1)／404／技術員送收；待批",
+      "remark": ""
+    },
+    {
+      "period": "P4",
+      "item": "iPad ×25",
+      "who": "nganct",
+      "note": "4CA／405／技術員送收；待批",
+      "remark": ""
+    },
+    {
+      "period": "P5",
+      "item": "iPad ×30",
+      "who": "pohl",
+      "note": "1N／604／技術員送收；確定可用",
+      "remark": ""
+    },
+    {
+      "period": "LH",
+      "item": "iPad ×8",
+      "who": "halilcan",
+      "note": "English day activity／The Wall of Fame／技術員送收；待批",
+      "remark": ""
+    },
+    {
+      "period": "LH–P6–P7",
+      "item": "Apple_Pen ×15",
+      "who": "siuwk",
+      "note": "數學週／禮堂／技術員送收；確定可用",
+      "remark": "數學週週會"
+    },
+    {
+      "period": "LH–P6–P7",
+      "item": "iPad ×20",
+      "who": "siuwk",
+      "note": "數學週／禮堂／自己取還；確定可用",
+      "remark": "數學週週會"
+    },
+    {
+      "period": "P6–P7",
+      "item": "iPad ×60",
+      "who": "siuwk",
+      "note": "S6／202-204／技術員送收；確定可用",
+      "remark": "中六級問卷調查（6C：10、6A：19、6N：29，共58人，另加2部後備）"
+    },
+    {
+      "period": "P7–P8",
+      "item": "iPad ×28",
+      "who": "chanwm",
+      "note": "女童軍／404／技術員送收；確定可用",
+      "remark": ""
+    },
+    {
+      "period": "P7–P8–CL",
+      "item": "iPad ×25",
+      "who": "wongdy",
+      "note": "數學學會／507／自己取還；確定可用",
+      "remark": "請借25部IPAD 請於約2:45pm 送去507室 內有數學遊戲APPS 包括sukudo, 2048, nonogram, 另請安裝PuzzleGym 謝謝"
+    },
+    {
+      "period": "AS",
+      "item": "iPad ×6",
+      "who": "chowmw",
+      "note": "S6尖子補課／204／自己取還；確定可用",
+      "remark": "星期六早上使用"
+    }
+  ],
   "venues": [],
   "maintenance": [
     {
