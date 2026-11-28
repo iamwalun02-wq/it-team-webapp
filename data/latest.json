@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-11-28T15:04:41+08:00",
+  "updatedAt": "2026-11-28T15:32:01+08:00",
   "source": "intranet.cchpwss.edu.hk",
   "isExample": false,
   "calendarDate": "2026-11-28",
   "displayDate": "2026-11-28",
   "displayLabel": "11/28（六）",
   "displayMode": "today",
-  "equipment": [],
+  "equipment": [
+    {
+      "period": "AS",
+      "item": "iPad ×6",
+      "who": "chowmw",
+      "note": "S6尖子補課／204／自己取還；確定可用",
+      "remark": "星期六早上使用；已取機"
+    }
+  ],
   "venues": [
     {
       "time": "08:00–14:00",
